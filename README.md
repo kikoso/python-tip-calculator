@@ -31,6 +31,12 @@ Total: 92.40 EUR, each pays 30.80 EUR
 | `exercises/04_km_to_miles.py` | Input, process, output: kilometres to miles |
 | `exercises/05_seconds_converter.py` | Seconds to hours, minutes and seconds |
 | `exercises/06_predict_output.py` | Quick check: predict the output |
+| `exercises/07_age_in_days.py` | Mini exercise 1: age in days |
+| `exercises/08_pizza.py` | Mini exercise 2: sharing pizza with // and % |
+| `exercises/09_currency.py` | Mini exercise 3: euros to dollars |
+| `exercises/10_name_tag.py` | Mini exercise 4: name tag with .upper() and len() |
+| `exercises/11_grade_average.py` | Mini exercise 5: average of three grades |
+| `exercises/12_travel_time.py` | Mini exercise 6: travel time in hours and minutes |
 
 ## Homework (session 1)
 
