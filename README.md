@@ -26,7 +26,7 @@ Total: 92.40 EUR, each pays 30.80 EUR
 python3 tip_calculator.py
 ```
 
-Or paste the code into a cell in [Google Colab](https://colab.research.google.com) and press Shift + Enter.
+In PyCharm: open the file, right-click in the editor and choose **Run**. Type your input in the Run panel at the bottom.
 
 ## What breaks it?
 
