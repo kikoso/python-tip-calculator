@@ -19,7 +19,6 @@ Total: 92.40 EUR, each pays 30.80 EUR
 | `extensions/level1_show_tip.py` | Level 1: also prints the tip amount |
 | `extensions/level2_percent_sign.py` | Level 2: accepts input like `15%` |
 | `extensions/level3_round_up.py` | Level 3: each person pays a whole euro amount, rounded up |
-| `tests/test_tip_calculator.py` | Automatic checks for all four programs |
 
 ## Run it
 
@@ -28,13 +27,6 @@ python3 tip_calculator.py
 ```
 
 Or paste the code into a cell in [Google Colab](https://colab.research.google.com) and press Shift + Enter.
-
-## Run the tests
-
-```
-pip install pytest
-python3 -m pytest
-```
 
 ## What breaks it?
 
