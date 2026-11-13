@@ -1,6 +1,6 @@
 # Python course solutions (HDBW)
 
-Solutions for the exercises in **Softwareentwicklung und Programmieren 3** at HDBW. Session 1 is in the top-level folders, session 2 in `session2/`.
+Solutions for the exercises in **Softwareentwicklung und Programmieren 3** at HDBW. Session 1 is in the top-level folders, the later sessions in `session2/` and `session3/`.
 
 ## Session 1: tip calculator
 
@@ -81,6 +81,34 @@ Total: 92.40 EUR, each pays 30.80 EUR
 | `session2/mini/` | Four mini exercises: vowels, word lengths, safe average, discount |
 
 The calculator and the module exercise each need both files in the same folder. Run `main.py` from that folder.
+
+### Homework (session 2)
+
+| File | Task |
+|---|---|
+| `session2/homework/text_stats.py` | Easy: word count, longest word, character frequency |
+| `session2/homework/input_tools.py` | Medium: read_int and read_float |
+| `session2/homework/bank.py` | Challenge: account with deposit, withdraw, transfer and its own exception |
+
+## Session 3: recursion, iteration and Big-O
+
+| File | Exercise |
+|---|---|
+| `session3/recursion/01_digit_sum_iterative.py` | Digit sum with a loop |
+| `session3/recursion/02_sum_list.py` | Sum of a list, recursive |
+| `session3/recursion/03_digit_sum_recursive.py` | Digit sum, recursive |
+| `session3/recursion/04_power.py` | Power, recursive |
+| `session3/recursion/05_palindrome.py` | Palindrome, recursive |
+| `session3/recursion/06_stairs.py` | Climbing stairs with @cache |
+| `session3/recursion/07_flatten.py` | Flatten nested lists |
+| `session3/bigo/01_list_vs_set.py` | Timing `in` for a list and a set |
+| `session3/bigo/02_duplicates.py` | Duplicates in O(n) |
+| `session3/bigo/03_pair_sum.py` | Two numbers with a given sum, O(n²) and O(n) |
+| `session3/bugs/` | The six find-the-bug exercises, fixed |
+| `session3/fibonacci/` | Fibonacci race: `fibonacci.py`, `main.py` and the three levels |
+| `session3/mini/` | Four mini exercises: fast power, binary, gcd, Collatz |
+
+Run the files in `session3/fibonacci/` from that folder, because they import `fibonacci.py`.
 
 ## Run it
 
