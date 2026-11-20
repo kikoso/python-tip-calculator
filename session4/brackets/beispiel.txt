@@ -1,0 +1,5 @@
+def mittelwert(werte):
+    summe = sum(werte)
+    return round(summe / len(werte), 2
+print(mittelwert([1, 2, 3]))
+daten = {"a": [1, 2}
